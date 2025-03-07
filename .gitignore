@@ -1,0 +1,9 @@
+#ignore venv
+venv/
+__pycache__/
+#ignore db and migrations
+db.sqlite3
+*.pyc 
+*.log
+#ignore env var
+.env
